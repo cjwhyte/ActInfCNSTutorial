@@ -1,4 +1,4 @@
 # ActInfCNSTutorial
-code for the CNS Active Inference Tutorial 2022
+Code for the CNS Active Inference Tutorial 2022
 
 
